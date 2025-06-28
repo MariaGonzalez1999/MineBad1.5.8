@@ -1401,3 +1401,123 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [03:23:35] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
 [03:23:35] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [03:23:36] [Server thread/INFO]: Villager class_1646['Fisherman'/61399, l='ServerLevel[world]', x=574.99, y=-65.00, z=-4331.93] died, message: 'Fisherman was killed'
+[03:31:56] [Worker-Main-14/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03:32:53] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[03:32:53] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[03:34:36] [Worker-Main-14/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[03:34:36] [Worker-Main-14/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[03:34:36] [Server thread/INFO]: Villager class_1646['Armorer'/72141, l='ServerLevel[world]', x=314.72, y=-65.00, z=-4746.75] died, message: 'Armorer was killed'
+[03:34:54] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03:35:10] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=11, y=-12, z=-131}
+[03:35:10] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=22, y=-11, z=-129}
+[03:35:10] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=21, y=-11, z=-129}
+[03:35:10] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03:35:10] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03:35:10] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03:35:10] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03:35:10] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03:35:16] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=47, z=211}
+[03:36:02] [Worker-Main-13/ERROR]: Couldn't load structure mvs:cathedral/special/dead_end_1
+net.minecraft.class_8911: Loading NBT data
+	at net.minecraft.class_2487.method_10581(class_2487.java:526) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_53895(class_2499.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_23249(class_2499.java:31) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_23262(class_2499.java:26) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487.method_10581(class_2487.java:520) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_52892(class_2507.java:185) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10626(class_2507.java:180) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10625(class_2507.java:105) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10629(class_2507.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15090(class_3485.java:228) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_44231(class_3485.java:218) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15088(class_3485.java:131) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_44245(class_3485.java:109) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at net.minecraft.class_3485.method_15094(class_3485.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15091(class_3485.java:87) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3781.method_27233(class_3781.java:85) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3781.method_16627(class_3781.java:111) ~[server-intermediary.jar:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager$Assembler.processList(PieceLimitedJigsawManager.java:424) ~[mvs-4.1.2-1.20-fabric.jar:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager$Assembler.generatePiece(PieceLimitedJigsawManager.java:313) ~[mvs-4.1.2-1.20-fabric.jar:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.lambda$assembleJigsawStructure$2(PieceLimitedJigsawManager.java:175) ~[mvs-4.1.2-1.20-fabric.jar:?]
+	at net.minecraft.class_3195$class_7150.method_44021(class_3195.java:117) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3195$class_7150.method_44019(class_3195.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3195.method_41614(class_3195.java:127) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_41044(class_2794.java:513) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_41041(class_2794.java:466) ~[server-intermediary.jar:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.class_2794.method_16129(class_2794.java:448) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_39464(class_2806.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_12154(class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_17225(class_3898.java:671) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17224(class_3898.java:660) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16907(class_3846.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16900(class_3846.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.run(class_3846.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
+	at java.util.zip.GZIPInputStream.readTrailer(GZIPInputStream.java:236) ~[?:?]
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:130) ~[?:?]
+	at net.minecraft.class_6826.read(class_6826.java:45) ~[server-intermediary.jar:?]
+	at java.io.DataInputStream.readFully(DataInputStream.java:208) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:594) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:550) ~[?:?]
+	at net.minecraft.class_2487$1.method_53907(class_2487.java:148) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_53889(class_2487.java:75) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487.method_10581(class_2487.java:520) ~[server-intermediary.jar:?]
+	... 52 more
+[03:36:02] [Worker-Main-13/WARN]: Empty or non-existent pool: minecraft:
+[03:36:17] [Server thread/INFO]: Villager class_1646['Leatherworker'/75520, l='ServerLevel[world]', x=207.50, y=-65.00, z=-5447.70] died, message: 'Leatherworker was killed'
+[03:36:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.28536991204316564
+[03:36:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7049600832567648
+[03:36:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.9294744181476631
+[03:36:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.0496075624148489
+[03:36:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.1729934775557354
+[03:36:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.2981198855379148
+[03:37:03] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:37:03] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:37:03] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:37:03] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:37:03] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:37:13] [Server thread/INFO]: Villager class_1646['Leatherworker'/76282, l='ServerLevel[world]', x=200.70, y=-65.00, z=-5616.50] died, message: 'Leatherworker was killed'
+[03:37:23] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[03:37:23] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[03:37:23] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[03:37:23] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[03:37:29] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
+[03:37:29] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
+[03:37:29] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
+[03:37:29] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
+[03:37:29] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
+[03:37:29] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:37:29] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:37:29] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:37:29] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:37:29] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:37:29] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:37:29] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
+[03:37:29] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
+[03:37:29] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:37:29] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:37:33] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:37:33] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:37:59] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 732.500000, 96.000000, -8279.500000]

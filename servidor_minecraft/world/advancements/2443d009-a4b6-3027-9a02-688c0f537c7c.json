@@ -10634,6 +10634,7 @@
     "criteria": {
       "locate_shipwreck": "2025-06-25 20:14:07 +0000",
       "locate_ruin_warm": "2025-06-25 20:04:50 +0000",
+      "locate_underwater_small_ruins": "2025-06-28 03:32:09 +0000",
       "locate_underwater_warm_small_ruins": "2025-06-22 07:58:46 +0000"
     },
     "done": false

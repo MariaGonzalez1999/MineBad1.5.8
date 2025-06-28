@@ -12900,5 +12900,149 @@
     },
     "done": true
   },
+  "thaumon:recipes/decorations/arcane_stone_bricks_from_arcane_stone_stonecutting": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_tile_slab": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_lantern": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/runic_arcane_stone_from_arcane_stone_stonecutting": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_pillar": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_window": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_button": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_tile_stairs": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_tiles_from_arcane_stone_stonecutting": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_slab_from_arcane_stone_stonecutting": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_stairs": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_wall": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/large_arcane_brick_slab": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_bricks": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/large_arcane_brick_stairs": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/tiled_arcane_stone_from_arcane_stone_stonecutting": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/inlaid_arcane_stone_from_arcane_stone_stonecutting": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_wall_from_arcane_stone_stonecutting": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_pressure_plate": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_slab": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/inlaid_arcane_stone": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/large_arcane_stone_bricks_from_arcane_stone_stonecutting": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/runic_arcane_tiles_from_arcane_stone_stonecutting": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_stairs_from_arcane_stone_stonecutting": {
+    "criteria": {
+      "has_arcane_stone": "2025-06-28 03:37:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
