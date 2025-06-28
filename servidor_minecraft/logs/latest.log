@@ -1521,3 +1521,12 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [03:37:33] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [03:37:33] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
 [03:37:59] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 732.500000, 96.000000, -8279.500000]
+[03:41:06] [Server thread/WARN]: badbalta moved too quickly! -9.983790446021771,0.0,1.6573701554807485
+[03:42:06] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[03:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 127682ms or 2553 ticks behind
+[03:43:13] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[03:43:14] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[03:43:14] [Server thread/INFO]: SimonPro74 left the game
+[03:43:15] [Server thread/INFO]: badbalta lost connection: Disconnected
+[03:43:15] [Server thread/INFO]: badbalta left the game
+[03:43:15] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/MineBad1.5.8/servidor_minecraft/./crash-reports/crash-2025-06-28_03.43.15-server.txt
