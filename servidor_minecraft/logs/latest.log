@@ -865,3 +865,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [01:52:59] [Server thread/INFO]: badbalta[/127.48.220.119:36245] logged in with entity id 528 at (670.4173930930519, 134.0, -8713.688495789302)
 [01:52:59] [Server thread/INFO]: Loading config from file...
 [01:52:59] [Server thread/INFO]: badbalta joined the game
+[02:17:17] [Server thread/INFO]: badbalta lost connection: Timed out
+[02:17:17] [Server thread/INFO]: badbalta left the game
+[02:17:17] [Server thread/WARN]: handleDisconnection() called twice
