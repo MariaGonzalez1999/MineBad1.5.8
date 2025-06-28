@@ -12792,5 +12792,113 @@
     },
     "done": true
   },
+  "thaumon:recipes/decorations/arcane_stone_from_stone": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_from_deepslate": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/crystal_lamp": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/greatwood_leaves": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/silverwood_leaves": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/research_notes": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/amber": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/silverwood_log": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/vial_rack": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/crystal_stand": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/grimoire": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/eldritch_stone": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/ancient_stone_from_dripstone": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/greatwood_log": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/grimoire_stack": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/arcane_stone_from_tuff": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/ancient_stone_from_granite": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/decorations/retort": {
+    "criteria": {
+      "has_mutagen": "2025-06-28 02:02:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
