@@ -1310,3 +1310,7 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:39:07] [Server thread/INFO]: SimonPro74 was slain by Enderman
 [22:47:28] [Server thread/INFO]: SimonPro74 was shot by Skeleton
 [22:48:32] [Server thread/WARN]: SimonPro74 moved wrongly!
+[22:52:32] [Server thread/INFO]: SimonPro74 was blown up by Creeper
+[23:00:03] [Server thread/INFO]: Villager class_1646['Unemployed'/76933, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
+[23:00:45] [Server thread/INFO]: Villager class_1646['Unemployed'/76953, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
+[23:08:55] [Server thread/INFO]: SimonPro74 was shot by Skeleton
