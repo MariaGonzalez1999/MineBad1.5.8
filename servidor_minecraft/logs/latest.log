@@ -862,3 +862,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:33:56] [Server thread/INFO]: SimonPro74 was slain by Piglin
 [19:42:10] [Server thread/INFO]: [Not Secure] [Server] hola
 [19:42:18] [Server thread/INFO]: [Not Secure] <SimonPro74> santiago putooo
+[19:52:57] [Server thread/INFO]: SimonPro74 burned to death
+[19:55:46] [Server thread/INFO]: SimonPro74 burned to death
+[19:56:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6532ms or 130 ticks behind
