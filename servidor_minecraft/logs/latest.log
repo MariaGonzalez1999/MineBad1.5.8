@@ -876,3 +876,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [16:56:56] [Server thread/INFO]: [Not Secure] [Server] anda pue a dormi
 [16:57:24] [Server thread/INFO]: SimonPro74 fell from a high place
 [16:59:43] [Server thread/WARN]: SimonPro74 moved too quickly! 9.893692848697015,-1.0860940793155152,-2.233958899128993
+[17:04:27] [Server thread/INFO]: SimonPro74 fell from a high place
+[17:07:03] [Server thread/INFO]: SimonPro74 fell from a high place
+[17:08:52] [Server thread/WARN]: SimonPro74 moved too quickly! 7.391117132518048,-3.0866781704310853,-6.378288169264124
