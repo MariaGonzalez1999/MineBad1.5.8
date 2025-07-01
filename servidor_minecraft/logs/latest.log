@@ -1,3 +1,10 @@
 [00:22:35] [Server thread/INFO]: [Not Secure] [Server] hola
 [00:28:59] [Server thread/INFO]: SimonPro74 drowned
 [00:29:46] [Server thread/INFO]: Teleported SimonPro74 to 715.500000, 95.000000, -8287.500000
+[00:43:38] [Server thread/WARN]: SimonPro74 moved too quickly! -5.02383611879543,-1.6306263397304974,-8.618057283174494
+[00:45:42] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[00:45:42] [Server thread/INFO]: SimonPro74 left the game
+[00:45:42] [Server thread/WARN]: handleDisconnection() called twice
+[00:47:52] [Server thread/INFO]: SimonPro74[/127.142.129.202:47971] logged in with entity id 16295 at (760.9013341416479, 88.0, -8279.522558779172)
+[00:47:52] [Server thread/INFO]: Loading config from file...
+[00:47:52] [Server thread/INFO]: SimonPro74 joined the game
