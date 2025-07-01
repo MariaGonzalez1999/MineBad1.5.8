@@ -884,3 +884,5 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [02:28:27] [Server thread/WARN]: SimonPro74 moved too quickly! 5.700507178949806,-1.964251709825703,-8.313205190723238
 [02:28:32] [Server thread/WARN]: SimonPro74 moved too quickly! 4.09711196233377,-3.1801253946541266,-8.713199211833853
 [02:28:54] [Server thread/WARN]: SimonPro74 moved too quickly! -3.3346133748576676,-2.347931237304018,9.38929794352589
+[02:40:43] [Server thread/INFO]: SimonPro74 was shot by Skeleton
+[02:46:14] [Server thread/INFO]: Villager class_1646['Leatherworker'/7885, l='ServerLevel[world]', x=610.50, y=-65.00, z=-8757.50] died, message: 'Leatherworker was killed'
