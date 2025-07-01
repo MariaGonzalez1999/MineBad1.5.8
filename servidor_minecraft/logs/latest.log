@@ -1317,3 +1317,23 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [23:12:42] [Server thread/INFO]: SimonPro74 was shot by Skeleton
 [23:28:15] [Server thread/INFO]: SimonPro74 was shot by Skeleton
 [23:29:10] [Server thread/INFO]: Villager class_1646['Unemployed'/83532, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
+[23:35:03] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[23:35:03] [Server thread/INFO]: SimonPro74 left the game
+[23:35:10] [Server thread/INFO]: Stopping the server
+[23:35:10] [Server thread/INFO]: Stopping server
+[23:35:10] [Server thread/INFO]: Saving players
+[23:35:10] [Server thread/INFO]: Saving worlds
+[23:35:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:35:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:35:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[23:35:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:35:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:35:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:35:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[23:35:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:35:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:35:11] [Server thread/INFO]: Unloading server config for barteringstation
+[23:35:11] [Server thread/INFO]: Unloading server config for easyanvils
+[23:35:11] [Server thread/INFO]: Unloading server config for easymagic
+[23:35:11] [Server thread/INFO]: Unloading server config for hangglider
+[23:35:11] [Server thread/INFO]: Unloading server config for iteminteractions
