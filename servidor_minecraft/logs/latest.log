@@ -881,3 +881,21 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [17:08:52] [Server thread/WARN]: SimonPro74 moved too quickly! 7.391117132518048,-3.0866781704310853,-6.378288169264124
 [17:18:07] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
 [17:18:07] [Server thread/INFO]: SimonPro74 left the game
+[18:48:31] [Server thread/INFO]: Stopping the server
+[18:48:31] [Server thread/INFO]: Stopping server
+[18:48:31] [Server thread/INFO]: Saving players
+[18:48:31] [Server thread/INFO]: Saving worlds
+[18:48:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:48:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[18:48:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:48:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:48:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:48:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18:48:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:48:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:48:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:48:32] [Server thread/INFO]: Unloading server config for barteringstation
+[18:48:32] [Server thread/INFO]: Unloading server config for easyanvils
+[18:48:32] [Server thread/INFO]: Unloading server config for easymagic
+[18:48:32] [Server thread/INFO]: Unloading server config for hangglider
+[18:48:32] [Server thread/INFO]: Unloading server config for iteminteractions
