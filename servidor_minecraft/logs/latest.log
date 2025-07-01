@@ -863,3 +863,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [23:24:50] [Server thread/INFO]: SimonPro74 joined the game
 [23:24:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
 [23:48:08] [Server thread/INFO]: SimonPro74 was impaled by Drowned
+[23:58:28] [Server thread/INFO]: SimonPro74 drowned
