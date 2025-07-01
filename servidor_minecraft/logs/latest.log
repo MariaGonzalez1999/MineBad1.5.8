@@ -1304,3 +1304,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:17:54] [Server thread/INFO]: Villager class_1646['Cartographer'/63189, l='ServerLevel[world]', x=1155.50, y=6.56, z=-10967.50] died, message: 'Cartographer suffocated in a wall'
 [22:17:54] [Server thread/INFO]: Villager class_1646['Leatherworker'/63395, l='ServerLevel[world]', x=1207.50, y=6.56, z=-10931.50] died, message: 'Leatherworker suffocated in a wall'
 [22:17:54] [Server thread/INFO]: Villager class_1646['Cartographer'/63429, l='ServerLevel[world]', x=1217.50, y=6.56, z=-11009.50] died, message: 'Cartographer suffocated in a wall'
+[22:21:32] [Server thread/INFO]: Teleported SimonPro74 to 710.500000, 95.000000, -8287.500000
+[22:22:23] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[22:24:12] [Server thread/INFO]: Teleported SimonPro74 to 710.500000, 95.000000, -8287.500000
