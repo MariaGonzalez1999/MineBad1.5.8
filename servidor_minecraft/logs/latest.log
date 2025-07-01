@@ -881,3 +881,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [02:24:56] [Server thread/INFO]: Teleported SimonPro74 to 710.500000, 90.000000, -8287.500000
 [02:27:16] [Server thread/INFO]: SimonPro74 was blown up by Creeper
 [02:27:50] [Server thread/INFO]: Teleported SimonPro74 to 710.500000, 90.000000, -8287.500000
+[02:28:27] [Server thread/WARN]: SimonPro74 moved too quickly! 5.700507178949806,-1.964251709825703,-8.313205190723238
+[02:28:32] [Server thread/WARN]: SimonPro74 moved too quickly! 4.09711196233377,-3.1801253946541266,-8.713199211833853
+[02:28:54] [Server thread/WARN]: SimonPro74 moved too quickly! -3.3346133748576676,-2.347931237304018,9.38929794352589
