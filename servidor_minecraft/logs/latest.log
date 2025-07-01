@@ -1195,3 +1195,37 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:39:15] [Server thread/INFO]: Villager class_1646['Unemployed'/43048, l='ServerLevel[world]', x=1739.51, y=-9.44, z=-9966.49] died, message: 'Unemployed suffocated in a wall'
 [21:39:20] [Server thread/WARN]: SimonPro74 moved too quickly! -2.8571358326587415,-2.0577875055317634,-9.542571131918521
 [21:39:23] [Server thread/INFO]: Villager class_1646['Fletcher'/43138, l='ServerLevel[world]', x=1422.51, y=29.56, z=-9974.49] died, message: 'Fletcher suffocated in a wall'
+[21:40:16] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=47, z=211}
+[21:40:45] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-204, y=57, z=-81}
+[21:40:45] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-205, y=57, z=-81}
+[21:40:45] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-206, y=57, z=-81}
+[21:40:45] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-207, y=57, z=-81}
+[21:40:45] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-208, y=57, z=-81}
+[21:40:57] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-32, y=-10, z=9}
+[21:41:39] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-204, y=57, z=-81}
+[21:41:39] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-205, y=57, z=-81}
+[21:41:39] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-206, y=57, z=-81}
+[21:41:39] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-207, y=57, z=-81}
+[21:41:39] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-208, y=57, z=-81}
+[21:42:50] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:50] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:52] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:52] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:52] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:52] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:52] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:52] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:43:06] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=1488, y=82, z=747}
+[21:44:08] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[21:44:08] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:44:08] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[21:44:08] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:44:08] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[21:44:08] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:44:08] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[21:44:08] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:44:08] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[21:44:08] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:49:26] [Server thread/INFO]: Villager class_1646['Cartographer'/50336, l='ServerLevel[world]', x=791.50, y=33.56, z=-10385.50] died, message: 'Cartographer suffocated in a wall'
+[21:49:26] [Server thread/INFO]: Villager class_1646['Unemployed'/50333, l='ServerLevel[world]', x=791.51, y=33.56, z=-10375.49] died, message: 'Unemployed suffocated in a wall'
+[21:56:11] [Server thread/INFO]: SimonPro74 was shot by Skeleton
