@@ -918,3 +918,14 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:03:28] [Server thread/INFO]: [Not Secure] [Server] estoy soldandoooo
 [19:03:44] [Server thread/INFO]: [Not Secure] <SimonPro74> daleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 [19:09:12] [Server thread/INFO]: Villager class_1646['Unemployed'/15511, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
+[19:27:15] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:28:26] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=21, y=-57, z=-54}
+[19:28:26] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=21, y=-58, z=-55}
+[19:30:07] [Worker-Main-11/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[19:30:07] [Worker-Main-11/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[19:30:07] [Worker-Main-11/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[19:30:07] [Worker-Main-11/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[19:44:32] [Server thread/INFO]: Villager class_1646['Unemployed'/28963, l='ServerLevel[world]', x=-233.76, y=67.25, z=-7762.34] died, message: 'Unemployed was shot by Pillager'
+[19:50:18] [Server thread/WARN]: SimonPro74 moved wrongly!
+[19:52:28] [Server thread/INFO]: Villager class_1646['Unemployed'/29091, l='ServerLevel[world]', x=-265.70, y=70.54, z=-7818.30] died, message: 'Unemployed was slain by Zombie'
+[19:52:31] [Server thread/INFO]: SimonPro74 tried to swim in lava
