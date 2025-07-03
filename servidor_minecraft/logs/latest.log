@@ -956,3 +956,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:31:35] [Server thread/INFO]: Villager class_1646['Unemployed'/49723, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
 [20:32:31] [Server thread/INFO]: SimonPro74 drowned
 [20:36:54] [Server thread/INFO]: SimonPro74 was doomed to fall by Skeleton
+[20:46:05] [Server thread/INFO]: Villager class_1646['Unemployed'/52566, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
+[20:47:16] [Server thread/INFO]: SimonPro74 was shot by Skeleton
+[20:49:03] [Server thread/INFO]: Villager class_1646['Unemployed'/54770, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
+[20:49:13] [Server thread/INFO]: Villager class_1646['Unemployed'/54767, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
+[20:51:07] [Server thread/WARN]: Player SimonPro74 just tried to change non-editable sign
