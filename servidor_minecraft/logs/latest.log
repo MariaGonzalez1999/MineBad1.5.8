@@ -963,3 +963,10 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:51:07] [Server thread/WARN]: Player SimonPro74 just tried to change non-editable sign
 [20:56:28] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
 [20:56:28] [Server thread/INFO]: SimonPro74 left the game
+[21:08:17] [Server thread/INFO]: SimonPro74[/127.98.32.172:45625] logged in with entity id 56275 at (603.4122861503275, 71.0625, -8747.956739366742)
+[21:08:17] [Server thread/INFO]: Loading config from file...
+[21:08:17] [Server thread/INFO]: SimonPro74 joined the game
+[21:09:32] [Server thread/INFO]: SimonPro74 was slain by Zombie
+[21:09:42] [Server thread/INFO]: Villager class_1646['Unemployed'/56905, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
+[21:12:42] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[21:12:42] [Server thread/INFO]: SimonPro74 left the game
