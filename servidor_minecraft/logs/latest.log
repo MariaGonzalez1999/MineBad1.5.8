@@ -861,3 +861,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:02:36] [Server thread/INFO]: SimonPro74[/127.200.143.169:33339] logged in with entity id 197 at (602.9325828306695, 71.0, -8746.227433569)
 [18:02:36] [Server thread/INFO]: Loading config from file...
 [18:02:36] [Server thread/INFO]: SimonPro74 joined the game
+[18:09:39] [Server thread/INFO]: SimonPro74 was slain by Piglin
+[18:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[18:14:24] [Server thread/INFO]: SimonPro74 was shot by Skeleton
