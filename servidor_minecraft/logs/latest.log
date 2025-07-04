@@ -881,3 +881,7 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:05:46] [Server thread/INFO]: [Not Secure] [Server] hola
 [19:05:52] [Server thread/INFO]: [Not Secure] <SimonPro74> hola puto
 [19:06:38] [Server thread/INFO]: Villager class_1646['Unemployed'/15789, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
+[19:55:53] [Server thread/INFO]: SimonPro74 hit the ground too hard while trying to escape Skeleton
+[19:57:09] [Server thread/INFO]: SimonPro74 fell from a high place
+[19:57:22] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[19:57:22] [Server thread/INFO]: SimonPro74 left the game
