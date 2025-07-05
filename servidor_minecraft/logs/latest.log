@@ -887,3 +887,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [17:02:49] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
 [17:25:31] [Server thread/INFO]: Villager class_1646['Unemployed'/56519, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
 [17:34:03] [Server thread/INFO]: SimonPro74 fell from a high place
+[17:43:59] [Server thread/INFO]: Villager class_1646['Unemployed'/66805, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
