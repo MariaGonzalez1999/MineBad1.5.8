@@ -873,3 +873,7 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [16:26:51] [Server thread/INFO]: [Not Secure] [Server] hola
 [16:26:54] [Server thread/INFO]: [Not Secure] <SimonPro74> hola
 [16:32:01] [Server thread/INFO]: SimonPro74 was slain by Piglin
+[16:41:47] [Server thread/INFO]: SimonPro74 was slain by Spider
+[16:53:12] [Server thread/INFO]: Villager class_1646['Leatherworker'/29233, l='ServerLevel[world]', x=-484.50, y=-65.00, z=-7626.70] died, message: 'Leatherworker was killed'
+[16:53:14] [Server thread/INFO]: Villager class_1646['Leatherworker'/29303, l='ServerLevel[world]', x=-455.70, y=-65.00, z=-7662.50] died, message: 'Leatherworker was killed'
+[16:54:41] [Server thread/INFO]: Villager class_1646['Armorer'/30510, l='ServerLevel[world]', x=-526.28, y=-65.00, z=-7276.75] died, message: 'Armorer was killed'

@@ -11607,5 +11607,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-07-05 16:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-05 16:55:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
