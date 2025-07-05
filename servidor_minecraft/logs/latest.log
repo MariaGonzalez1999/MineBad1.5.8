@@ -877,3 +877,12 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [16:53:12] [Server thread/INFO]: Villager class_1646['Leatherworker'/29233, l='ServerLevel[world]', x=-484.50, y=-65.00, z=-7626.70] died, message: 'Leatherworker was killed'
 [16:53:14] [Server thread/INFO]: Villager class_1646['Leatherworker'/29303, l='ServerLevel[world]', x=-455.70, y=-65.00, z=-7662.50] died, message: 'Leatherworker was killed'
 [16:54:41] [Server thread/INFO]: Villager class_1646['Armorer'/30510, l='ServerLevel[world]', x=-526.28, y=-65.00, z=-7276.75] died, message: 'Armorer was killed'
+[16:57:34] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-133, y=-10, z=17}
+[16:57:34] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=665, y=-20, z=-299}
+[16:57:34] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=677, y=-20, z=-299}
+[16:58:25] [Server thread/INFO]: Villager class_1646['Weaponsmith'/31881, l='ServerLevel[world]', x=-580.53, y=-65.00, z=-7314.77] died, message: 'Weaponsmith was killed'
+[17:02:49] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[17:02:49] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[17:02:49] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[17:02:49] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[17:25:31] [Server thread/INFO]: Villager class_1646['Unemployed'/56519, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
