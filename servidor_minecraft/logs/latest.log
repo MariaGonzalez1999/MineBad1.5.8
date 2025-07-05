@@ -868,3 +868,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [16:14:00] [Server thread/INFO]: Villager class_1646['Unemployed'/8011, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
 [16:19:36] [Server thread/INFO]: SimonPro74 tried to swim in lava
 [16:25:18] [Server thread/INFO]: Villager class_1646['Unemployed'/11927, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
+[16:26:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:26:48] [Server thread/INFO]: say<--[HERE]
+[16:26:51] [Server thread/INFO]: [Not Secure] [Server] hola
+[16:26:54] [Server thread/INFO]: [Not Secure] <SimonPro74> hola
+[16:32:01] [Server thread/INFO]: SimonPro74 was slain by Piglin
