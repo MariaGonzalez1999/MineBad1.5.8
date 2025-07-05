@@ -8150,6 +8150,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "tavern_dark_oak": "2025-07-05 18:44:53 +0000",
       "illager_camp": "2025-06-12 21:17:08 +0000",
       "mansion": "2025-06-25 20:34:46 +0000"
     },
@@ -11707,6 +11708,12 @@
   "mcwpaths:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-07-05 16:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-07-05 18:43:36 +0000"
     },
     "done": true
   },

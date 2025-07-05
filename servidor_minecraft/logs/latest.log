@@ -901,3 +901,146 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:22:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.4469617841252784
 [18:22:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.48749670905669973
 [18:22:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.5304386930927194
+[18:30:17] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:17] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:17] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:17] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:17] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:17] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:17] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:17] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:30:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:34:22] [Server thread/INFO]: Villager class_1646['Farmer'/90990, l='ServerLevel[world]', x=2.09, y=-65.00, z=-6649.43] died, message: 'Farmer was killed'
+[18:35:08] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=578, y=-26, z=-305}
+[18:35:08] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=577, y=-14, z=-306}
+[18:35:08] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=576, y=-28, z=-303}
+[18:35:08] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=578, y=-28, z=-303}
+[18:35:08] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=578, y=-27, z=-303}
+[18:35:08] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=576, y=-14, z=-304}
+[18:35:11] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:35:11] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:35:11] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:35:39] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=48, z=214}
+[18:35:39] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=48, z=214}
+[18:35:39] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=49, z=214}
+[18:35:39] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=48, z=214}
+[18:35:39] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=49, z=214}
+[18:35:39] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=49, z=214}
+[18:35:39] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=50, z=214}
+[18:35:39] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=50, z=214}
+[18:35:39] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=50, z=214}
+[18:35:46] [Server thread/INFO]: Villager class_1646['Cartographer'/92370, l='ServerLevel[world]', x=242.43, y=-65.00, z=-5955.30] died, message: 'Cartographer was killed'
+[18:35:46] [Server thread/INFO]: Villager class_1646['Leatherworker'/92371, l='ServerLevel[world]', x=243.52, y=-65.00, z=-5955.30] died, message: 'Leatherworker was killed'
+[18:35:46] [Server thread/INFO]: Villager class_1646['Cartographer'/92372, l='ServerLevel[world]', x=243.03, y=-65.00, z=-5954.61] died, message: 'Cartographer was killed'
+[18:35:46] [Server thread/INFO]: Villager class_1646['Armorer'/92379, l='ServerLevel[world]', x=223.28, y=-65.00, z=-5952.25] died, message: 'Armorer was killed'
+[18:35:52] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[18:35:52] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[18:35:52] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[18:35:52] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[18:35:53] [Server thread/INFO]: Villager class_1646['Fletcher'/92622, l='ServerLevel[world]', x=242.24, y=-65.00, z=-5948.63] died, message: 'Fletcher was killed'
+[18:35:53] [Server thread/INFO]: Villager class_1646['Fletcher'/92623, l='ServerLevel[world]', x=240.29, y=-65.00, z=-5948.16] died, message: 'Fletcher was killed'
+[18:35:53] [Server thread/INFO]: Villager class_1646['Fisherman'/92626, l='ServerLevel[world]', x=268.07, y=-65.00, z=-5947.99] died, message: 'Fisherman was killed'
+[18:35:54] [Server thread/INFO]: Villager class_1646['Leatherworker'/92699, l='ServerLevel[world]', x=445.36, y=-65.00, z=-5952.93] died, message: 'Leatherworker was killed'
+[18:35:57] [Server thread/INFO]: Villager class_1646['Farmer'/92731, l='ServerLevel[world]', x=274.36, y=-65.00, z=-5925.78] died, message: 'Farmer was killed'
+[18:35:57] [Server thread/INFO]: Villager class_1646['Farmer'/92732, l='ServerLevel[world]', x=274.43, y=-65.00, z=-5926.71] died, message: 'Farmer was killed'
+[18:35:58] [Server thread/INFO]: Villager class_1646['Fisherman'/92742, l='ServerLevel[world]', x=239.27, y=-65.00, z=-5926.27] died, message: 'Fisherman was killed'
+[18:35:58] [Server thread/INFO]: Villager class_1646['Farmer'/92771, l='ServerLevel[world]', x=263.50, y=-65.00, z=-5926.30] died, message: 'Farmer was killed'
+[18:35:58] [Server thread/INFO]: Villager class_1646['Farmer'/92772, l='ServerLevel[world]', x=267.30, y=-65.00, z=-5930.49] died, message: 'Farmer was killed'
+[18:35:58] [Server thread/INFO]: Villager class_1646['Farmer'/92773, l='ServerLevel[world]', x=267.70, y=-65.00, z=-5930.49] died, message: 'Farmer was killed'
+[18:35:58] [Server thread/INFO]: Villager class_1646['Toolsmith'/92776, l='ServerLevel[world]', x=244.59, y=-65.00, z=-5923.16] died, message: 'Toolsmith was killed'
+[18:35:58] [Server thread/INFO]: Villager class_1646['Shepherd'/92777, l='ServerLevel[world]', x=246.30, y=-65.00, z=-5921.50] died, message: 'Shepherd was killed'
+[18:35:58] [Server thread/INFO]: Villager class_1646['Librarian'/92778, l='ServerLevel[world]', x=244.76, y=-65.00, z=-5924.46] died, message: 'Librarian was killed'
+[18:36:07] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=48, z=214}
+[18:36:07] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=48, z=214}
+[18:36:07] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=49, z=214}
+[18:36:07] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=48, z=214}
+[18:36:07] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=49, z=214}
+[18:36:07] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=49, z=214}
+[18:36:07] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=50, z=214}
+[18:36:07] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=50, z=214}
+[18:36:07] [Worker-Main-7/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=50, z=214}
+[18:38:09] [Server thread/INFO]: Named entity class_1642['the gnome'/91548, l='ServerLevel[world]', x=287.09, y=88.00, z=-6116.26] died: the gnome fell from a high place
+[18:38:18] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=48, z=214}
+[18:38:18] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=48, z=214}
+[18:38:18] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=49, z=214}
+[18:38:18] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=48, z=214}
+[18:38:18] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=49, z=214}
+[18:38:18] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=49, z=214}
+[18:38:18] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=50, z=214}
+[18:38:18] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=50, z=214}
+[18:38:18] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=50, z=214}
+[18:38:19] [Server thread/INFO]: Named entity class_1642['the gnome'/91565, l='ServerLevel[world]', x=284.36, y=89.00, z=-6080.04] died: the gnome hit the ground too hard
+[18:38:20] [Server thread/INFO]: Named entity class_1642['the gnome'/91563, l='ServerLevel[world]', x=285.82, y=88.00, z=-6078.25] died: the gnome hit the ground too hard
+[18:38:20] [Server thread/INFO]: Named entity class_1642['the gnome'/91569, l='ServerLevel[world]', x=285.83, y=88.00, z=-6078.48] died: the gnome fell from a high place
+[18:38:20] [Server thread/INFO]: Named entity class_1642['the gnome'/91551, l='ServerLevel[world]', x=282.74, y=88.00, z=-6080.61] died: the gnome hit the ground too hard
+[18:38:37] [Server thread/INFO]: Named entity class_1642['the gnome'/91553, l='ServerLevel[world]', x=294.23, y=88.00, z=-6109.23] died: the gnome fell from a high place
+[18:38:39] [Server thread/INFO]: Named entity class_1642['the gnome'/91558, l='ServerLevel[world]', x=293.60, y=88.00, z=-6112.07] died: the gnome hit the ground too hard
+[18:38:43] [Server thread/INFO]: Named entity class_1642['the gnome'/91559, l='ServerLevel[world]', x=286.39, y=90.00, z=-6080.35] died: the gnome hit the ground too hard
+[18:38:53] [Server thread/INFO]: Named entity class_1642['the gnome'/91572, l='ServerLevel[world]', x=263.55, y=87.00, z=-6088.93] died: the gnome fell from a high place
+[18:38:59] [Server thread/INFO]: Named entity class_1642['the gnome'/91568, l='ServerLevel[world]', x=290.22, y=95.00, z=-6099.23] died: the gnome hit the ground too hard
+[18:39:05] [Server thread/INFO]: Named entity class_1642['the gnome'/91573, l='ServerLevel[world]', x=298.84, y=85.00, z=-6110.39] died: the gnome fell from a high place
+[18:39:09] [Server thread/INFO]: Named entity class_1642['the gnome'/91552, l='ServerLevel[world]', x=263.85, y=88.00, z=-6095.60] died: the gnome hit the ground too hard
+[18:39:09] [Server thread/INFO]: Named entity class_1642['the gnome'/91562, l='ServerLevel[world]', x=286.83, y=88.00, z=-6079.47] died: the gnome hit the ground too hard
+[18:39:13] [Server thread/INFO]: Named entity class_1642['the gnome'/91560, l='ServerLevel[world]', x=261.44, y=88.00, z=-6092.93] died: the gnome hit the ground too hard
+[18:39:17] [Server thread/INFO]: Named entity class_1642['the gnome'/91556, l='ServerLevel[world]', x=280.44, y=88.00, z=-6138.81] died: the gnome fell from a high place
+[18:39:22] [Server thread/INFO]: Named entity class_1642['the gnome'/91555, l='ServerLevel[world]', x=262.38, y=87.00, z=-6089.13] died: the gnome fell from a high place
+[18:40:02] [Server thread/INFO]: Named entity class_1642['the gnome'/91564, l='ServerLevel[world]', x=272.28, y=95.00, z=-6095.16] died: the gnome was shot by SimonPro74
+[18:40:09] [Server thread/INFO]: Named entity class_1642['the gnome'/91554, l='ServerLevel[world]', x=272.65, y=95.00, z=-6094.99] died: the gnome was shot by SimonPro74
+[18:40:09] [Server thread/INFO]: Named entity class_1642['the gnome'/91567, l='ServerLevel[world]', x=294.56, y=88.00, z=-6109.02] died: the gnome hit the ground too hard
+[18:40:13] [Server thread/INFO]: Named entity class_1642['the gnome'/91549, l='ServerLevel[world]', x=273.15, y=95.00, z=-6095.97] died: the gnome was shot by SimonPro74
+[18:41:11] [Server thread/INFO]: Named entity class_1642['the gnome'/91561, l='ServerLevel[world]', x=287.07, y=88.00, z=-6118.57] died: the gnome hit the ground too hard
+[18:41:43] [Server thread/INFO]: Named entity class_1642['the gnome'/91557, l='ServerLevel[world]', x=284.48, y=79.00, z=-6140.33] died: the gnome fell from a high place
+[18:42:27] [Server thread/INFO]: Named entity class_1642['the gnome'/91550, l='ServerLevel[world]', x=286.93, y=87.00, z=-6132.17] died: the gnome fell from a high place
+[18:42:31] [Server thread/INFO]: Named entity class_1642['the gnome'/91571, l='ServerLevel[world]', x=308.74, y=90.00, z=-6095.57] died: the gnome hit the ground too hard
+[18:42:55] [Server thread/INFO]: Named entity class_1642['the gnome'/91566, l='ServerLevel[world]', x=246.97, y=88.00, z=-6112.88] died: the gnome hit the ground too hard
+[18:44:27] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[18:44:27] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[18:44:27] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[18:44:27] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[18:44:58] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[18:44:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:44:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:44:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:44:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:44:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:44:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:44:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:44:58] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:44:58] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[18:44:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:44:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:44:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:44:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:44:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:44:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:44:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:44:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:44:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:44:58] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:46:19] [Server thread/INFO]: SimonPro74 was slain by Vindicator
