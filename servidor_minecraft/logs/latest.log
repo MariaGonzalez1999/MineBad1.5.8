@@ -890,3 +890,14 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [17:43:59] [Server thread/INFO]: Villager class_1646['Unemployed'/66805, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
 [17:54:54] [Server thread/INFO]: SimonPro74 fell from a high place
 [18:04:56] [Server thread/WARN]: Player SimonPro74 just tried to change non-editable sign
+[18:17:22] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.3277139231595356
+[18:17:22] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7154699325492402
+[18:21:17] [Server thread/INFO]: Villager class_1646['Farmer'/85683, l='ServerLevel[world]', x=631.31, y=-65.00, z=-6714.66] died, message: 'Farmer was killed'
+[18:22:03] [Server thread/INFO]: Villager class_1646['Fletcher'/85903, l='ServerLevel[world]', x=588.47, y=-65.00, z=-6658.67] died, message: 'Fletcher was killed'
+[18:22:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.3280290638825818
+[18:22:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.3487641639849244
+[18:22:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.3764762156636152
+[18:22:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.4096581974597484
+[18:22:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.4469617841252784
+[18:22:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.48749670905669973
+[18:22:42] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.5304386930927194
