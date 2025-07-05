@@ -11608,6 +11608,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-05 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-07-05 16:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-07-05 16:58:00 +0000"
@@ -11638,19 +11650,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2025-07-05 16:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:calico": "2025-07-05 18:12:32 +0000",
-      "minecraft:ragdoll": "2025-07-05 17:08:59 +0000"
-    },
-    "done": false
-  },
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
       "has_planks": "2025-07-05 16:58:00 +0000"
@@ -11660,18 +11659,6 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-07-05 16:58:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
-    "criteria": {
-      "has_bamboo_slab": "2025-07-05 18:04:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-05 18:04:42 +0000"
     },
     "done": true
   },
@@ -11693,12 +11680,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-07-05 16:55:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-05 16:58:00 +0000"
@@ -11708,12 +11689,6 @@
   "mcwpaths:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-07-05 16:58:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_glazed_terracotta": {
-    "criteria": {
-      "has_lime_terracotta": "2025-07-05 18:43:36 +0000"
     },
     "done": true
   },
@@ -11732,6 +11707,31 @@
   "mcwbridges:recipes/rope_acacia_bridge": {
     "criteria": {
       "has_planks": "2025-07-05 16:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:calico": "2025-07-05 18:12:32 +0000",
+      "minecraft:ragdoll": "2025-07-05 17:08:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-05 18:04:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-07-05 18:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-07-05 18:43:36 +0000"
     },
     "done": true
   },
