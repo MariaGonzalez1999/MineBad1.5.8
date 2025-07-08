@@ -885,3 +885,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:04:51] [Server thread/INFO]: SimonPro74 joined the game
 [18:10:38] [Server thread/INFO]: Villager class_1646['Unemployed'/20054, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
 [18:15:31] [Server thread/INFO]: [Not Secure] [Server] hola
+[18:24:29] [Server thread/INFO]: Villager class_1646['Unemployed'/32485, l='ServerLevel[world]', x=37.50, y=35.05, z=-5092.30] died, message: 'Unemployed drowned'
