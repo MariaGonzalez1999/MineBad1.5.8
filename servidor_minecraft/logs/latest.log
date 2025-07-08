@@ -871,3 +871,15 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [17:29:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3261ms or 65 ticks behind
 [17:29:31] [Server thread/WARN]: UUID of added entity already exists: class_1481['Turtle'/579, l='ServerLevel[world]', x=231.44, y=63.00, z=-5128.57]
 [17:46:56] [Server thread/INFO]: Villager class_1646['Unemployed'/3927, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
+[17:57:29] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[17:57:29] [Server thread/INFO]: SimonPro74 left the game
+[17:57:29] [Server thread/WARN]: handleDisconnection() called twice
+[17:57:39] [Server thread/INFO]: SimonPro74[/127.172.169.214:48039] logged in with entity id 18660 at (597.5010083183082, 72.0, -8726.54373577675)
+[17:57:39] [Server thread/INFO]: Loading config from file...
+[17:57:39] [Server thread/INFO]: SimonPro74 joined the game
+[17:59:09] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[17:59:09] [Server thread/INFO]: SimonPro74 left the game
+[18:04:21] [Server thread/INFO]: [Not Secure] [Server] hola
+[18:04:51] [Server thread/INFO]: SimonPro74[/127.172.169.214:41465] logged in with entity id 19915 at (589.3358097978469, 72.0, -8720.341319183486)
+[18:04:51] [Server thread/INFO]: Loading config from file...
+[18:04:51] [Server thread/INFO]: SimonPro74 joined the game
