@@ -917,3 +917,5 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:03:47] [Server thread/INFO]: Villager class_1646['Fletcher'/9452, l='ServerLevel[world]', x=-240.50, y=-9.44, z=-5578.50] died, message: 'Fletcher suffocated in a wall'
 [21:03:48] [Server thread/INFO]: Villager class_1646['Cartographer'/9581, l='ServerLevel[world]', x=-282.50, y=-18.44, z=-5510.50] died, message: 'Cartographer suffocated in a wall'
 [21:05:57] [Server thread/INFO]: Villager class_1646['Fisherman'/9588, l='ServerLevel[world]', x=-282.50, y=-7.95, z=-5552.50] died, message: 'Fisherman drowned'
+[21:14:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[21:19:31] [Server thread/INFO]: Villager class_1646['Unemployed'/14141, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.70] died, message: 'Unemployed was squished too much'
