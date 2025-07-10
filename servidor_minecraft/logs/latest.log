@@ -907,3 +907,13 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:56:06] [Server thread/INFO]: Villager class_1646['Unemployed'/7799, l='ServerLevel[world]', x=-283.31, y=-21.00, z=-5530.07] died, message: 'Unemployed suffocated in a wall'
 [20:56:06] [Server thread/INFO]: Villager class_1646['Unemployed'/7800, l='ServerLevel[world]', x=-286.41, y=-12.00, z=-5529.16] died, message: 'Unemployed suffocated in a wall'
 [20:56:06] [Server thread/INFO]: Villager class_1646['Unemployed'/7801, l='ServerLevel[world]', x=-284.70, y=-12.00, z=-5527.50] died, message: 'Unemployed suffocated in a wall'
+[21:00:54] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[21:00:54] [Server thread/INFO]: SimonPro74 left the game
+[21:00:59] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:00:59] [Server thread/INFO]: SimonPro74[/127.138.154.200:47985] logged in with entity id 9181 at (-112.25367783308346, -20.0, -5510.994838615314)
+[21:00:59] [Server thread/INFO]: Loading config from file...
+[21:00:59] [Server thread/INFO]: SimonPro74 joined the game
+[21:03:47] [Server thread/INFO]: Villager class_1646['Fletcher'/9498, l='ServerLevel[world]', x=-240.48, y=-9.44, z=-5614.50] died, message: 'Fletcher suffocated in a wall'
+[21:03:47] [Server thread/INFO]: Villager class_1646['Fletcher'/9452, l='ServerLevel[world]', x=-240.50, y=-9.44, z=-5578.50] died, message: 'Fletcher suffocated in a wall'
+[21:03:48] [Server thread/INFO]: Villager class_1646['Cartographer'/9581, l='ServerLevel[world]', x=-282.50, y=-18.44, z=-5510.50] died, message: 'Cartographer suffocated in a wall'
+[21:05:57] [Server thread/INFO]: Villager class_1646['Fisherman'/9588, l='ServerLevel[world]', x=-282.50, y=-7.95, z=-5552.50] died, message: 'Fisherman drowned'
