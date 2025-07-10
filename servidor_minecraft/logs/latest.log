@@ -897,3 +897,22 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:09:44] [Server thread/INFO]: [Not Secure] [Server] hola
 [19:13:25] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=147, y=169, z=-166}
 [19:15:22] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[19:17:05] [Server thread/INFO]: [Not Secure] [Server] hola
+[19:17:44] [Server thread/INFO]: [Not Secure] [Server] las coordenadas
+[19:18:02] [Server thread/INFO]: [Not Secure] <SimonPro74> 102x
+[19:18:39] [Server thread/INFO]: [Not Secure] [Server] escribilas bien
+[19:18:40] [Server thread/INFO]: [Not Secure] <SimonPro74> -5614 nether
+[19:18:49] [Server thread/INFO]: [Not Secure] <SimonPro74> lsto
+[19:18:56] [Server thread/INFO]: [Not Secure] <SimonPro74> rapidooooooooooooo
+[19:19:11] [Server thread/INFO]: [Not Secure] [Server] 102 alturasay -5614?
+[19:19:23] [Server thread/INFO]: [Not Secure] <SimonPro74> no altura 64
+[19:19:26] [Server thread/INFO]: [Not Secure] <SimonPro74> daleeeeeeeeeeeee
+[19:19:41] [Server thread/INFO]: Teleported SimonPro74 to 102.500000, 64.000000, -5613.500000
+[19:19:49] [Server thread/INFO]: [Not Secure] <SimonPro74> grax
+[19:19:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:19:52] [Server thread/INFO]: <--[HERE]
+[19:19:54] [Server thread/INFO]: [Not Secure] [Server] ok
+[19:20:04] [Server thread/INFO]: [Not Secure] <SimonPro74> era en el netehr
+[19:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11487ms or 229 ticks behind
+[19:21:27] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[19:21:27] [Server thread/INFO]: SimonPro74 left the game
